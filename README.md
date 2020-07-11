@@ -1,13 +1,13 @@
 ## Hi there 👋
-You discovered my GitHub Profile!  
+You've discovered my GitHub Profile!  
 
 <div align=center>
-  
+ <!-- 
 [![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:khk49121@gmail.com)](mailto:khk49121@gmail.com)
 ![Discord](https://img.shields.io/badge/BGM%230970-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
 
 </div>
-
+-->
 <!--
 **khk4912/khk4912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
