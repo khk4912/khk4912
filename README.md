@@ -4,7 +4,7 @@ You've discovered my GitHub Profile!
 <div align=center>
 
 [![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:khk49121@gmail.com)](mailto:khk49121@gmail.com)
-![Discord](https://img.shields.io/badge/BGM%230970-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white)
+![Discord](https://img.shields.io/badge/BGM%230970-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white) <br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=khk4912&theme=default&show_icons=true)
 </div>
 
