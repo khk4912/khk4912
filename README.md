@@ -3,8 +3,8 @@ You've discovered my GitHub Profile!
 
 <div align=center>
 
-[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:khk4912@uniquecode.team)](mailto:khk49121@gmail.com)
-![Discord](https://img.shields.io/badge/BGM%230970-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white) <br><br>
+[![Mail](https://img.shields.io/badge/Mail-Mail?logo=mail.ru&style=flat-square&color=168DE2&logoColor=white&link=mailto:kosame@kosame.dev)](mailto:kosame@kosame.dev)
+![Discord](https://img.shields.io/badge/bgmm-Discord?logo=discord&style=flat-square&color=7289DA&logoColor=white) <br><br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=khk4912&theme=dark&show_icons=true&hide=prs,issues&count_private=true&hide_rank=true)
 </div>
 
